@@ -13,7 +13,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How to test
 
-1. Reset the system.
+1. Reset the system .
 2. Press the first button to increase brightness.
 3. Press the second button to decrease brightness.
 4. Observe the LED dot getting brighter or dimmer, while the display updates to show the new brightness level.
