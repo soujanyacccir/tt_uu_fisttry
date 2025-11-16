@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "PWM_LED_dimmer"      # Project title
+  title:        "PWM_LED_dimme"      # Project title
   author:       "Michael Pichler"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Uses Buttons to change the brightness of an LED"      # One line description of what your project does
